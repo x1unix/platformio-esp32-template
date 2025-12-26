@@ -1,4 +1,4 @@
-# PlatformIO project template for Arduino
+# PlatformIO project template for ESP32
 
 This is a Arduino project template for PlatformIO.
 
@@ -24,4 +24,3 @@ Template includes:
 ## Building project
 
 Use `make build`, `make upload` and `make monitor` commands.
-
